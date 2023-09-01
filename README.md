@@ -2,6 +2,7 @@
 ---
 
 ## Bank Customer Churn Prediction
+![Predicting The Top Cusomers](https://github.com/bharti-1/Bank_churn/blob/main/Understanding%20Customer%20Churn.png)
 
 ### Overview
 
